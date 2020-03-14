@@ -72,5 +72,6 @@ button:hover {
 @media (max-width: 600px) {
 	.App {
 		width: 80%;
+		margin: 100px auto;
 	}
 }
