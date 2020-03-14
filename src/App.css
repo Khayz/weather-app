@@ -68,3 +68,9 @@ button:hover {
 	background-color: #202020;
 	color: #ccc;
 }
+
+@media (max-width: 600px) {
+	.App {
+		width: 80%;
+	}
+}

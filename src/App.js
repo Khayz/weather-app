@@ -7,7 +7,7 @@ import { Spinner } from './components/ui/Spinner/Spinner';
 
 function App() {
 	const [currentLocation, setCurrentLocation] = useState({});
-	const [nameLocation, setNameLocation] = useState('sweden');
+	const [nameLocation, setNameLocation] = useState('zapopan');
 	const [isLoading, setIsLoading] = useState(true);
 	const [temperatureData, setTemperatureData] = useState(null);
 	const [isFahrenheit, setIsFahrenheit] = useState(true);
